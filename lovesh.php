@@ -1,4 +1,4 @@
 <?php
-echo "Hello Lovesh bhai 🚀 — yeh file GitHub se deploy hui hai!";
+echo "Hello Lovesh bhai 🚀 — this file is uploaded by github!";
 ?>
 
